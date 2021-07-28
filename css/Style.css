@@ -1,0 +1,267 @@
+/* style sheet */
+
+.body {
+   /* background-color: #E8FFFF;   color: #51c4d3;    #3EDBF0       */
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+
+.top-container{
+   background-color: #E8FFFF;
+   position: relative;
+   padding: 100px;
+}
+
+.kd-name{
+  margin: 0;
+  padding: 50px 0 0 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5em;
+  color: #1597bb;
+}
+
+.p1{
+  padding: 0 0 5px 0;
+  color: #3EDBF0;
+}
+
+.cloud-top{
+   position: absolute;
+   right: 350px;
+   top: 50px;
+}
+
+.cloud-bottom{
+   position: absolute;
+   left: 300px;
+   bottom: 400px;
+}
+
+.mountain_img{
+   width: 50%;
+   height: 50%;
+   position: relative;
+}
+
+.hr-1{
+   border: dotted skyblue 8px;
+   border-bottom: none;
+   width: 50px;
+}
+
+.content-1{
+   background-color: #B9FFFC;
+   position: relative;
+   padding: 70px 0 250px 0;
+   margin: 0;
+}
+
+.my-profile{
+   border-radius: 50%;
+   width: 10%;
+   height: 10%;
+   position: relative;
+}
+
+.my-profile-1{
+   border-radius: 50%;
+   width: 25%;
+   height: 25%;
+   position: relative;
+   float: left;
+   margin-right: 50px;
+}
+
+.my-profile-2{
+   border-radius: 50%;
+   width: 25%;
+   height: 25%;
+   position: relative;
+   float: right;
+   margin-left: 50px;
+}
+
+.about-me{
+  padding: 10px 0 10px 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 3em;
+  color: #1597bb;
+}
+
+.about-me-1{
+  padding: 10px 0 10px 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 3em;
+  color: #1597bb;
+}
+
+.po{
+   font-family: 'WaltographRegular';
+   font-size: 1.5em;
+   font-weight: normal;
+   font-style: normal;
+   color: #1597bb;
+}
+
+.po-1{
+   font-family: 'WaltographRegular';
+   font-size: 1.5em;
+   font-weight: normal;
+   font-style: normal;
+   color: #1597bb;
+   position: relative;
+}
+
+.pe-2{
+   font-family: 'WaltographRegular';
+   font-size: 1.5em;
+   font-weight: normal;
+   font-style: normal;
+   color: #1597bb;
+   position: relative;
+   text-align: left;
+}
+
+
+.p2{
+   font-family: cursive;
+   line-height: 2;
+   text-align: center;
+   position: absolute;
+   font-size: 17px;
+   left: 30%;
+   right: 30%;
+   padding: 0 0 25px 0;
+}
+
+.p-design{
+   font-family: cursive;
+   line-height: 2;
+   text-align: center;
+   position: relative;
+   font-size: 17px;
+   padding: 0 0 25px 0;
+   text-align: left;
+}
+
+.po-2{
+   font-family: cursive;
+   line-height: 2;
+   text-align: center;
+   position: relative;
+   font-size: 17px;
+   padding: 0 0 25px 0;
+   text-align: left;
+}
+
+.middle-container{
+   background-color: #e4fbff;
+   position: relative;
+   padding: 50px 0 90px 0;
+   margin: 0;
+   width: 100%;
+   margin: auto;
+}
+
+.sub-1{
+   width: 50%;
+   margin: 50px auto 80px auto;
+   text-align: left;
+   line-height: 2;
+}
+
+.sub-2{
+   width: 50%;
+   margin: 50px auto 80px auto;
+   text-align: right;
+   line-height: 2;
+}
+
+.help-1{
+  padding: 0 0 8px 0;
+  font-family: arial;
+  color: #3EDBF0;
+}
+
+.freelance{
+   font-family: cursive;
+   font-size: 1.2em;
+   font-weight: normal;
+   font-style: normal;
+   color: #1597bb;
+   position: relative;
+}
+
+.about-me-2{
+   padding: 10px 0 10px 0;
+   font-family: 'Sacramento', cursive;
+   font-size: 3em;
+   color: #1597bb;
+}
+
+.last-para{
+   font-family: cursive;
+   line-height: 2;
+   text-align: center;
+   position: absolute;
+   font-size: 17px;
+   left: 30%;
+   right: 30%;
+   padding: 0 0 25px 0;
+}
+
+.bottom-container{
+   width: 100%;
+   background-color: #1597bb;
+}
+
+/* button coding */
+
+.BUTTON_VQW {
+   background: rgba(61, 239, 246, 0.97);
+   background-image: -webkit-linear-gradient(top, rgba(61, 239, 246, 0.97), #1EB0D0);
+   background-image: -moz-linear-gradient(top, rgba(61, 239, 246, 0.97), #1EB0D0);
+   background-image: -ms-linear-gradient(top, rgba(61, 239, 246, 0.97), #1EB0D0);
+   background-image: -o-linear-gradient(top, rgba(61, 239, 246, 0.97), #1EB0D0);
+   background-image: -webkit-gradient(to bottom, rgba(61, 239, 246, 0.97), #1EB0D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 14px;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 12px;
+   -webkit-box-shadow: 4px 1px 12px 0 #000000;
+   -moz-box-shadow: 4px 1px 12px 0 #000000;
+   box-shadow: 4px 1px 12px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 200px 0 0 0;
+}
+
+.BUTTON_VQW:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+/*
+.middle-container{
+   background-color: green;
+}
+
+*/
